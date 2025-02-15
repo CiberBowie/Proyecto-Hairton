@@ -7,8 +7,8 @@ def main():
     kmz_path = 'S119E_SR 534_ODOT_AE ROAD PINS.kmz'
     offset = 100
     text_height = 25
-    delta_x = -151.4048
-    delta_y = -606918.7301
+    delta_x = 0#-151.4048 valores delta_propios de S119E_SR 534_ODOT_AE ROAD PINS.kmz
+    delta_y = 0#-606918.7301
 
     # Inicializar componentes
     autocad = AutoCADManager(offset=offset, text_height=text_height)
