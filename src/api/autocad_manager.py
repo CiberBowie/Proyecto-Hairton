@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Feb 14 01:23:41 2025
-
+Codigo usado para dibujar no necesitamos sacar datos por el momento esta asi en futuras versiones mejoraremos el codigo
 @author: Hairton Rafael Chalco lima
 """
 from pyautocad import Autocad, APoint
